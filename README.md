@@ -32,8 +32,6 @@
           </button>
         </div>
       </header>
-      <a href="amit.mp3">
-        <h1>click here to liston music</h1></a>
       <section class="text-gray-600 body-font">
         <div class="container px-5 py-24 mx-auto flex flex-wrap items-center">
           <div class="lg:w-3/5 md:w-1/2 md:pr-16 lg:pr-0 pr-0">
@@ -50,7 +48,7 @@
           <label for="Email" class="leading-7 text-sm text-gray-600">Email</label>
               <input type="Email" id="Email" name="Email" class="w-full bg-white rounded border border-gray-300 focus:border-green-500 focus:ring-2 focus:ring-green-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
             </div>
-            <a href="C:\Users\SK\Desktop\op2\ASTecnoZone.html">
+            <a href="https://amitsheoran002.github.io/ASTecnoZone/">
             <button class="text-white bg-green-500 border-0 py-2 px-8 focus:outline-none hover:bg-green-600 rounded text-lg">Sumbit</button></a>
             <p class="text-xs text-gray-500 mt-3">Did you ever listen about ASTecnoZone?</p>
           </div>
@@ -71,7 +69,7 @@
             </div>
           </div>
           <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-           </div>
+</div>
         </div>
       </section>
       <section class="text-gray-600 body-font">
@@ -144,8 +142,9 @@
             <p class="text-xs text-gray-400 text-opacity-90 mt-3">SUMBIT YOUR FEEDBACK</p>
           </div>
         </div>
-    </section>
-     </div>
+    
+  </section>
+      </div>
       <section class="text-gray-600 body-font">
         <div class="container px-5 py-24 mx-auto flex flex-wrap flex-col">
           <div class="flex mx-auto flex-wrap mb-20">
@@ -252,12 +251,12 @@
           <button type="button" class="rounded-lg text-xs leading-6 font-semibold px-2 ring-2 ring-inset ring-slate-500 text-slate-500 dark:text-slate-100 dark:ring-0 dark:bg-slate-500">
             1x
             <button type="button" class="rounded-lg text-xs leading-6 font-semibold px-2 ring-2 ring-inset ring-slate-500 text-slate-500 dark:text-slate-100 dark:ring-0 dark:bg-slate-500">
-              2x
+           2x
             </button>
           </button>
         </div>
       </div>
-     <footer class="text-red-600 body-font">
+<footer class="text-red-600 body-font">
         <div class="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
           <div class="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
             <a class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
@@ -333,7 +332,7 @@
                   <a class="text-gray-600 hover:text-gray-800">Third Link</a>
                 </li>
                 <li>
-       <a class="text-gray-600 hover:text-gray-800">Fourth Link</a>
+ <a class="text-gray-600 hover:text-gray-800">Fourth Link</a>
                 </li>
               </nav>
             </div>
@@ -394,12 +393,12 @@
                 <svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0" class="w-5 h-5" viewBox="0 0 24 24">
                   <path stroke="none" d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"></path>
                   <circle cx="4" cy="4" r="2" stroke="none"></circle>
-                </svg>
-              </a>
-            </span>
+          </svg>
+        </a>
+    </span>
           </div>
-        </div>
-      </footer>
+    </div>
+    </footer>
     
 </body>
 </html>
